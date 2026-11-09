@@ -23,3 +23,7 @@ Client thường gửi Authorization: Bearer <access-token>. JWT dạng header.p
 - Access token dùng để gọi tài nguyên; refresh token có thể dùng để xin access token mới và cần được bảo vệ, có thể bị thu hồi. Không phải mọi luồng đều cấp refresh token.
 - Với ứng dụng người dùng, thường dùng Authorization Code + PKCE; không đưa secret vào mã chạy công khai trên trình duyệt.
 
+<<<<<<< HEAD
+=======
+Nguồn tham khảo: https://github.com/itsdoanguen/NodeJS-Course/tree/main/APIDevelopment
+>>>>>>> 4a63918089fbe72a8ae2db7b990365cbb38e26db
